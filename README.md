@@ -15,9 +15,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sabinghimirenp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sabinghimirenp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="175em" src="https://nirzak-streak-stats.vercel.app/?user=sabinghimirenp&theme=tokyonight&hide_border=false" />
+  <img height="170em" src="https://nirzak-streak-stats.vercel.app/?user=sabinghimirenp&theme=tokyonight&hide_border=false" />
 </div><br><br>
 <div align="center">
  <img
