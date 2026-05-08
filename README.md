@@ -59,9 +59,6 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-<div align="center">
-  <img  height="190em" src="https://nirzak-streak-stats.vercel.app/?user=sabinghimirenp&theme=tokyonight&hide_border=false" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=sabinghimirenp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-</div>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=false">    <img  alt="SabinGhimireNP's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SabinGhimireNP?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false" />  </a>
 
 ###
