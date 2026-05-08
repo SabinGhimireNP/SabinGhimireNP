@@ -59,6 +59,6 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=false">    <img  alt="SabinGhimireNP's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SabinGhimireNP?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false" />  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=false">    <img  alt="SabinGhimireNP's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SabinGhimireNP?cardType=level&theme=dark&fontFamily=&preferLogin=false" />  </a>
 
 ###
