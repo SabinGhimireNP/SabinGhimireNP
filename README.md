@@ -59,6 +59,22 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=false">    <img  alt="SabinGhimireNP's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SabinGhimireNP?cardType=level&theme=dark&fontFamily=&preferLogin=false" />  </a>
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Sabinghimirenp&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sabinghimirenp&theme=radical" alt="GitHub Streak" height="170" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sabinghimirenp&layout=compact&theme=radical" alt="Top Languages" height="170" />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ###
